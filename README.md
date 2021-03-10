@@ -5,3 +5,5 @@ Foi criado no intuito exclusivo de testar o método. Não está pronto para nego
 
 ![aparência ao ser executado](img/executando.png)
 ![lucro no testador de estratégia](img/teste.png)
+
+Talvez possa-se melhorar testando e utilizando intervalos específicos do horário, dias da semana, medidor de volatilidade, coincidência com outro tempo gráfico, etc.
